@@ -1,5 +1,6 @@
 name: Generate ai document
 run-name: Syncing doc for ${{ github.event.number }}
+description: 'generate ai docs'
 on:
   push:
     branches:
